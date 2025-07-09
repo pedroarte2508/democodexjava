@@ -1,0 +1,4 @@
+*.class
+
+# Maven target directory
+/target/
